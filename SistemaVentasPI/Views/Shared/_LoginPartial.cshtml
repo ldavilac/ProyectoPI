@@ -16,22 +16,19 @@
 else
 {
     <ul class="nav navbar-nav navbar-right">
-        <li>@Html.ActionLink("Registrarse", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+
 
         @if ((int)Session["cerrar"] == 0)
+
         {
+            <li>@Html.ActionLink("Registrarse", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
             <li>@Html.ActionLink("Iniciar sesión", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
         }
         else
         {
-           
-            <li onclick="prueba()">@Html.ActionLink("Cerrar sesion", "Login", "Account", null, null)</li>
+
+            <li onclick="prueba()">@Html.ActionLink("Cerrar sesion", "cerrarSesion", "Account", null, null)</li>
 
         }
     </ul>
 }
-<script>
-    function prueba() {
-        alert("falta");
-    }
-</script>

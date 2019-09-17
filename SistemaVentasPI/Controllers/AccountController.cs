@@ -65,10 +65,12 @@ namespace SistemaVentasPI.Controllers
 
         }
 
-        [HttpPost]
-        public void cerrarSesion()
+        [AllowAnonymous]
+        public ActionResult cerrarSesion()
         {
+
             Session["cerrar"] = 0;
+            return RedirectToAction("Login");
         }
         //
         // GET: /Account/Login
