@@ -1,0 +1,263 @@
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\ApplicationInsights.config
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\SistemaVentasPI.dll.config
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\SistemaVentasPI.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\SistemaVentasPI.pdb
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\csc.exe
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\csc.exe.config
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\csc.rsp
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\csi.exe
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\csi.exe.config
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\csi.rsp
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.AppContext.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Collections.Immutable.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Console.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.IO.Compression.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.IO.FileSystem.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.IO.Pipes.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Security.AccessControl.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Security.Claims.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.ValueTuple.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Xml.XPath.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\vbc.exe
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\vbc.exe.config
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\vbc.rsp
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\VBCSCompiler.exe
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\VBCSCompiler.exe.config
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Antlr3.Runtime.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\EntityFramework.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\EntityFramework.SqlServer.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AI.Web.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AI.WindowsServer.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.ApplicationInsights.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Security.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Security.Google.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Web.Infrastructure.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Newtonsoft.Json.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Owin.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Diagnostics.DiagnosticSource.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Web.Helpers.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Web.Mvc.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Web.Optimization.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Web.Razor.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Web.WebPages.Deployment.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Web.WebPages.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Web.WebPages.Razor.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\WebGrease.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Web.Helpers.xml
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Web.Mvc.xml
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Web.Optimization.xml
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Web.Razor.xml
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Web.WebPages.xml
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Web.WebPages.Deployment.xml
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Web.WebPages.Razor.xml
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Newtonsoft.Json.xml
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Antlr3.Runtime.pdb
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\EntityFramework.xml
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\EntityFramework.SqlServer.xml
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.xml
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Security.xml
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Security.Google.xml
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Diagnostics.DiagnosticSource.xml
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AI.WindowsServer.xml
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AI.Web.xml
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\es\System.Web.Helpers.resources.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\es\System.Web.Mvc.resources.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\es\System.Web.Optimization.resources.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\es\System.Web.Razor.resources.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\es\System.Web.WebPages.resources.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\es\EntityFramework.resources.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\es\EntityFramework.SqlServer.resources.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\obj\Debug\SistemaVentasPI.csproj.CoreCompileInputs.cache
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\obj\Debug\SistemaVentasPI.csproj.CopyComplete
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\obj\Debug\SistemaVentasPI.dll
+D:\CicloVI\ProyIntegra\SistemaVentasPI\SistemaVentasPI\obj\Debug\SistemaVentasPI.pdb
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\ApplicationInsights.config
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\SistemaVentasPI.dll.config
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\SistemaVentasPI.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\SistemaVentasPI.pdb
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\csc.exe
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\csc.exe.config
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\csc.rsp
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\csi.exe
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\csi.exe.config
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\csi.rsp
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.AppContext.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Collections.Immutable.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Console.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.IO.Compression.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.IO.FileSystem.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.IO.Pipes.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Security.AccessControl.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Security.Claims.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.ValueTuple.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Xml.XPath.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\vbc.exe
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\vbc.exe.config
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\vbc.rsp
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\VBCSCompiler.exe
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\roslyn\VBCSCompiler.exe.config
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Antlr3.Runtime.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\EntityFramework.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\EntityFramework.SqlServer.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AI.Web.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AI.WindowsServer.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.ApplicationInsights.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Security.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Security.Google.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Web.Infrastructure.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Newtonsoft.Json.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Owin.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Web.Helpers.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Web.Mvc.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Web.Optimization.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Web.Razor.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Web.WebPages.Deployment.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Web.WebPages.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Web.WebPages.Razor.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\WebGrease.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Web.Helpers.xml
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Web.Mvc.xml
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Web.Optimization.xml
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Web.Razor.xml
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Web.WebPages.xml
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Web.WebPages.Deployment.xml
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Web.WebPages.Razor.xml
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Newtonsoft.Json.xml
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Antlr3.Runtime.pdb
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\EntityFramework.xml
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\EntityFramework.SqlServer.xml
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.xml
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Security.xml
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Security.Google.xml
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AI.WindowsServer.xml
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.AI.Web.xml
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\es\System.Web.Helpers.resources.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\es\System.Web.Mvc.resources.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\es\System.Web.Optimization.resources.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\es\System.Web.Razor.resources.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\es\System.Web.WebPages.resources.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\es\EntityFramework.resources.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\es\EntityFramework.SqlServer.resources.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\obj\Debug\SistemaVentasPI.csprojAssemblyReference.cache
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\obj\Debug\SistemaVentasPI.csproj.CoreCompileInputs.cache
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\obj\Debug\SistemaVentasPI.csproj.CopyComplete
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\obj\Debug\SistemaVentasPI.dll
+C:\juber gutierrez ore\6TO CICLO\PROYECTO INTEGRADOR\ProyIntegra\SistemaVentasPI\SistemaVentasPI\obj\Debug\SistemaVentasPI.pdb
